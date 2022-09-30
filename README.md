@@ -9,7 +9,7 @@ Formada em Gestão da Tecnologia  da Informação. <br>
   <img align = "center" alt = "CSS3" height = "30" width = "40" src = "https://github.com/viviicente/devicon/blob/master/icons/css3/css3-plain-wordmark.svg ">
   <img align = "center" alt = "Js" height = "30" width = "40" src = "https://github.com/viviicente/devicon/blob/master/icons/javascript/javascript-plain.svg ">
   <img align = "center" alt = "React" height = "30" width = "40" src = "https://github.com/viviicente/devicon/blob/master/icons/react/react-original-wordmark.svg ">
-  <img align = "center" alt = "Python" height = "30" width = "40" src = "https://github.com/viviicente/devicon/blob/master/icons/python/python-plain-wordmark.svg ">
+ 
   </div> <br> 
  
 
